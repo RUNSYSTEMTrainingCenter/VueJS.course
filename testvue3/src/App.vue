@@ -1,9 +1,9 @@
 <script setup>
-import did from './components/did.vue'
+import section1 from './components/section1.vue'
 </script>
 
 <template>
-  <did />
+  <section1 />
 </template>
 
 <style scoped>
